@@ -76,27 +76,27 @@ class c:public B{
 
 };
 //multiple
-class A{
-    public:
-void print(){
+// class A{
+//     public:
+// void print(){
 
-}
+// }
 
-};
-class B{
-    void print(){
+// };
+// class B{
+//     void print(){
 
-    }
+//     }
 
-};
-class C:public B,public A{
+// };
+// class C:public B,public A{
 
-};
-int main(){
-    C c1;
-    c1.A::print();
+// };
+// int main(){
+//     C c1;
+//     c1.A::print();
 
-}
+// }
 
 //Heirarchical
 class A{
