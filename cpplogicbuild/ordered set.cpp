@@ -11,8 +11,8 @@ int main()
 {
     
     
-    //set<int>set1 = {5,3,8,1,9};ascending order
-    set<int,greater<int>>set1 = {5,3,8,1,9};//descending order
+    set<int>set1 = {5,3,8,1,9};//ascending order
+    //set<int,greater<int>>set1 = {5,3,8,1,9};//descending order
 
     // for(int i : set1){
     //     cout<<i<<" ";
