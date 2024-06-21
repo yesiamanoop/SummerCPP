@@ -6,7 +6,7 @@ using namespace std;
 
 
 
-void sorting(int arr[], int size){
+void sorting0n1(int arr[], int size){
     int count=0;
     int count1=1;
 
@@ -29,7 +29,7 @@ void sorting(int arr[], int size){
 int main()
 {
     int arr[5]={1,0,1,0,1};
-    sorting(arr,5);
+    sorting0n1(arr,5);
     for(int i=0;i<5;i++){
         cout<<arr[i]<<" ";
     }

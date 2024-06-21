@@ -15,6 +15,12 @@ int main() {
     int arr[5] = {1, 2, 3, 4, 5};
     
 
-    pairSum(arr, 5,5);
+    pairSum(arr, 5,8);
     return 0;
 }
+
+
+//////////////////question:-maximum subarray sum///////////////////////
+//////////////////kadane algorithm/////////////////////
+/////////////////star pattern//////////////////////////
+/////////////////reverse a number and a string//////////////////
