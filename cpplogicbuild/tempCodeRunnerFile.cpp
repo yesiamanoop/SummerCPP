@@ -1,6 +1,5 @@
- // cout<<"Enter 5 numbers : ";
-
-    // for(int i=0;i<5;i++)
-    // {
-    //     cin>>arr[i];
+cout << "Swapped Array: ";
+    // for(int i = 0; i < size; i++){
+    //     cout << arr[i] << " ";
     // }
+    // cout << endl;
